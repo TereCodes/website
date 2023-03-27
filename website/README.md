@@ -1,4 +1,4 @@
-<!-- Question 2 -->
+Question 2
 1. virtual DOM 
 2. Performance
 3. Extensions
@@ -6,8 +6,7 @@
 5. One-way data binding
 
 
-<!-- QUESTION 3 -->
-ADVANTAGES OF REACT
+QUESTION 3
 1. It is easy to learn.
 2. It's components are reusable.
 3. It has improved performance.
@@ -16,17 +15,17 @@ ADVANTAGES OF REACT
   
   
 
-<!-- QUESTION 4. -->
-Jordan Walke 
-Facebook
+QUESTION 4
+a. Jordan Walke 
+b. Facebook
 
 
-<!-- QUESTION 5 -->
+QUESTION 5
 1. JSX requires tags to be explicitly closed. 
 2. JSX uses camelCase for attributes.
 3. JSX uses className instead of class for adding classes to the HTML element.
 
 
-<!-- QUESTION 6 -->
+QUESTION 6
 Browsers can't read JSX because a transpiler is needed to translate it to React as it is not valid Javascript.
 
