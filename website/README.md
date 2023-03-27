@@ -16,8 +16,8 @@ QUESTION 3
   
 
 QUESTION 4
-a. Jordan Walke 
-b. Facebook
+ Jordan Walke 
+ Facebook
 
 
 QUESTION 5
